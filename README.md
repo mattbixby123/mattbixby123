@@ -6,7 +6,7 @@
 <br>
 &nbsp; ⚡ JavaScript (JS), HTML, CSS, SQL
 <br>
-&nbsp; ⚡ React, Redux Toolkit/RTK Query
+&nbsp; ⚡ React, ReactRouter, Redux Toolkit/RTK Query
 <br>
 &nbsp; ⚡ Express JS, PostgreSQL, Prisma ORM
 <br>
