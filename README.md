@@ -4,15 +4,15 @@
 
 🔧 Skills Unlocked:
 <br>
-<&nbsp> ⚡ JavaScript (JS), HTML, CSS, SQL
+&nbsp; ⚡ JavaScript (JS), HTML, CSS, SQL
 <br>
-⚡ React, Redux Toolkit/RTK Query
+&nbsp; ⚡ React, Redux Toolkit/RTK Query
 <br>
-⚡ Express JS, PostgreSQL, Prisma ORM
+&nbsp; ⚡ Express JS, PostgreSQL, Prisma ORM
 <br>
-⚡ MUI Core, Bcrypt encryption
+&nbsp; ⚡ MUI Core, Bcrypt encryption
 <br>
-⚡ JS APIs, GitHub OAuth
+&nbsp; ⚡ JS APIs, GitHub OAuth
 
 🌱 Currently Studying: AWS, TypeScript, Remix JS
 
