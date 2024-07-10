@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattbixby123
 - 👀 I’m interested in animals, plants, coding, and nature.
-- 🔑 Unlocked Skills JS, HTML, CSS, SQL, React, Redux Toolkit/RTK Query, Express JS, postgreSQL, Prisma ORM, MUI Core, Bcrypt encryption, JS APIs, and GitHub OAuth
+- 🔑 Unlocked Skills include: JS, HTML, CSS, SQL, React, Redux Toolkit/RTK Query, Express JS, postgreSQL, Prisma ORM, MUI Core, Bcrypt encryption, JS APIs, and GitHub OAuth
 - 🌱 I’m currently learning Typescript and Remix JS!
 - 💞️ I’m looking to collaborate on projects of all shape and size!
 - 📫 How to reach me matthew.bixby1@gmail.com
