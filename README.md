@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Matt (he/him) !
+👋 Hi, I'm Matt (he/him) !
 
 👀 Interests: Animals, plants, coding, nature
 
