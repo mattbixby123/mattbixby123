@@ -4,7 +4,7 @@
 
 🔧 Skills Unlocked:
 <br>
-&nbsp ⚡ JavaScript (JS), HTML, CSS, SQL
+<&nbsp> ⚡ JavaScript (JS), HTML, CSS, SQL
 <br>
 ⚡ React, Redux Toolkit/RTK Query
 <br>
