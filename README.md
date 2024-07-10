@@ -3,6 +3,7 @@
 👀 Interests: Animals, plants, coding, nature
 
 🔧 Skills Unlocked:
+<br>
 ⚡ JavaScript (JS), HTML, CSS, SQL
 ⚡ React, Redux Toolkit/RTK Query
 ⚡ Express JS, PostgreSQL, Prisma ORM
