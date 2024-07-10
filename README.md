@@ -5,6 +5,7 @@
 🔧 Skills Unlocked:
 <br>
 ⚡ JavaScript (JS), HTML, CSS, SQL
+<br>
 ⚡ React, Redux Toolkit/RTK Query
 ⚡ Express JS, PostgreSQL, Prisma ORM
 ⚡ MUI Core, Bcrypt encryption
