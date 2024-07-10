@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @mattbixby123
-- 👀 I’m interested in animals, plants, coding, and nature.
-- 🔑 Unlocked Skills include: JS, HTML, CSS, SQL, React, Redux Toolkit/RTK Query, Express JS, postgreSQL, Prisma ORM, MUI Core, Bcrypt encryption, JS APIs, and GitHub OAuth
-- 🌱 I’m currently learning Typescript and Remix JS!
-- 💞️ I’m looking to collaborate on projects of all shape and size!
-- 📫 How to reach me matthew.bixby1@gmail.com
-- ⚡ Pronouns: he/him
+- 👋 Hi, I'm Matt (he/him) !
+
+👀 Interests: Animals, plants, coding, nature
+
+🔧 Skills Unlocked:
+⚡ JavaScript (JS), HTML, CSS, SQL
+⚡ React, Redux Toolkit/RTK Query
+⚡ Express JS, PostgreSQL, Prisma ORM
+⚡ MUI Core, Bcrypt encryption
+⚡ JS APIs, GitHub OAuth
+
+🌱 Currently Studying: AWS, TypeScript, Remix JS
+
+💼 Looking to Collaborate on: Projects of all shapes and sizes!
+
+📫 Reach Me At: matthew.bixby1@gmail.com
 
 <!---
 mattbixby123/mattbixby123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
