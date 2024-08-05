@@ -14,7 +14,7 @@
 <br>
 &nbsp; ⚡ JS APIs, GitHub OAuth
 
-🌱 Currently Studying: AWS, TypeScript, Remix JS
+🌱 Currently Studying: NextJS, Typescript, and Remix JS
 
 💼 Looking to Collaborate on: Projects of all shapes and sizes!
 
