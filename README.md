@@ -14,7 +14,7 @@
 <br>
 &nbsp; ⚡ JS APIs, GitHub OAuth
 
-🌱 Currently Studying: NextJS, Typescript, and Remix JS
+🌱 Currently Studying: AWS Cloud Practitioner Essentials in preparation for taking the exam.
 
 💼 Looking to Collaborate on: Projects of all shapes and sizes!
 
