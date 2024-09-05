@@ -12,7 +12,7 @@
 <br>
 &nbsp; ⚡ MUI Core, Bcrypt encryption
 <br>
-&nbsp; ⚡ JS APIs, GitHub OAuth
+&nbsp; ⚡ JS APIs, TypeScript, and Next.js
 
 🌱 Currently Studying: AWS Cloud Practitioner Essentials in preparation for taking the exam.
 
