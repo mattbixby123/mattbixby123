@@ -4,7 +4,7 @@
 
 🔧 Skills Unlocked:
 <br>
-&nbsp; ⚡ JavaScript (JS), HTML, CSS, SQL
+&nbsp; ⚡ JavaScript, HTML, CSS, SQL
 <br>
 &nbsp; ⚡ React, ReactRouter, Redux Toolkit/RTK Query
 <br>
@@ -16,7 +16,7 @@
 
 🌱 Currently Studying: AWS Cloud Practitioner Essentials in preparation for taking the exam.
 
-💼 Looking to Collaborate on: Projects of all shapes and sizes!
+💼 Open for: Full-time Full Stack Developer or Solutions Engineer roles (open to relocation) | Collaborations on innovative web projects
 
 📫 Reach Me At: matthew.bixby1@gmail.com
 
