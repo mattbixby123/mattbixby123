@@ -14,7 +14,7 @@
 <br>
 &nbsp; ⚡ JS APIs, TypeScript, and Next.js
 
-🌱 Currently Studying: AWS Cloud Practitioner Essentials in preparation for taking the exam.
+🌱 AWS Certified Cloud Practitioner as of October 2024
 
 💼 Open for: Full-time Full Stack Developer or Solutions Engineer roles (open to relocation) | Collaborations on innovative web projects
 
