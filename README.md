@@ -8,7 +8,7 @@
 <br>
 &nbsp; ⚡ React, ReactRouter, Redux Toolkit/RTK Query
 <br>
-&nbsp; ⚡ Express JS, PostgreSQL, Prisma ORM, Spring Boot
+&nbsp; ⚡ Express JS, PostgreSQL, Prisma ORM
 <br>
 &nbsp; ⚡ MUI Core, Bcrypt encryption
 <br>
