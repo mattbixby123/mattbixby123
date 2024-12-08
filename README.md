@@ -16,6 +16,8 @@
 
 🌱 AWS Certified Cloud Practitioner as of October 2024
 
+🔅 Current focus: Practicing Spring Boot and Java for backend services
+
 💼 Open for: Full-time Full Stack Developer or Solutions Engineer roles (open to relocation) | Collaborations on innovative projects
 
 📫 Reach Me At: matthew.bixby1@gmail.com
