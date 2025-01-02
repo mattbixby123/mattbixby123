@@ -1,6 +1,6 @@
 👋 Hi, I'm Matt (he/him) !
 
-👀 Interests: Wildlife biology, Coding, Botany, Open source, Nature photography
+👀 Interests: Wildlife biology, Coding, Botany, Open source, Nature photography, and Reality TV.
 
 🔧 Skills Unlocked:
 <br>
