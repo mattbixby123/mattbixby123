@@ -16,7 +16,7 @@
 
 🌱 AWS Certified Cloud Practitioner as of October 2024 - I have a new project on my portfolio that showcases my new AWS provisioning skills (Inventory Management Dashboard)
 
-🔅 Current focus: Practicing Spring Boot and Java for backend services. Ask me about what I am reading!
+🔅 Current focus: JAVA!!! I am practicing Spring Boot and Java for backend services. Ask me about what I am reading and what project I am building!
 
 💼 Open for: Full-time Full Stack Developer or Solutions Engineer roles (open to relocation) | Collaborations on innovative projects
 
