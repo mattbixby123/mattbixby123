@@ -14,9 +14,9 @@
 <br>
 &nbsp; ⚡ JS APIs, TypeScript, and Next.js
 
-🌱 AWS Certified Cloud Practitioner as of October 2024
+🌱 AWS Certified Cloud Practitioner as of October 2024 - I have a new project on my portfolio that showcases my new AWS provisioning skills.
 
-🔅 Current focus: Practicing Spring Boot and Java for backend services
+🔅 Current focus: Practicing Spring Boot and Java for backend services. Ask me about what I am reading!
 
 💼 Open for: Full-time Full Stack Developer or Solutions Engineer roles (open to relocation) | Collaborations on innovative projects
 
