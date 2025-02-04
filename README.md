@@ -1,28 +1,23 @@
-👋 Hi, I'm Matt (he/him) !
+# 👋 Hi, I'm Matt (he/him)!
 
-👀 Interests: Wildlife biology, Coding, Botany, Open source, Nature photography, and Reality TV.
+Fullstack Software Engineer with a chemistry background, combining analytical precision with modern web development. Former fragrance industry professional bringing unique insights to software solutions.
 
-🔧 Skills Unlocked:
-<br>
-&nbsp; ⚡ JavaScript, Java, HTML, CSS, SQL
-<br>
-&nbsp; ⚡ React, ReactRouter, Redux Toolkit/RTK Query
-<br>
-&nbsp; ⚡ Express JS, PostgreSQL, Prisma ORM
-<br>
-&nbsp; ⚡ MUI Core, Bcrypt encryption
-<br>
-&nbsp; ⚡ JS APIs, TypeScript, and Next.js
+## 🔧 Tech Stack
+- **Frontend:** JavaScript, React, Redux Toolkit/RTK Query, ReactRouter, TypeScript, Next.js, HTML/CSS
+- **Backend:** Node.js, Express, Java, Spring Boot
+- **Database:** PostgreSQL, Prisma ORM
+- **Cloud:** AWS Certified Cloud Practitioner (October 2024)
+- **Tools:** MUI Core, Bcrypt, REST APIs
 
-🌱 AWS Certified Cloud Practitioner as of October 2024 - I have a new project on my portfolio that showcases my new AWS provisioning skills (Inventory Management Dashboard)
+## 🌱 Currently
+- Building backend services with Java Spring Boot
+- Check out my latest AWS project: Inventory Management Dashboard
+- Open to full-time Full Stack Developer or Solutions Engineer roles
 
-🔅 Current focus: JAVA!!! I am practicing Spring Boot and Java for backend services. Ask me about what I am reading and what project I am building!
+## 👀 Beyond Coding
+Wildlife biology, botany, open source, nature photography, and reality TV enthusiast
 
-💼 Open for: Full-time Full Stack Developer or Solutions Engineer roles (open to relocation) | Collaborations on innovative projects
-
-📫 Reach Me At: matthew.bixby1@gmail.com
-
-<!---
-mattbixby123/mattbixby123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Let's Connect!
+- Email: matthew.bixby1@gmail.com
+- Portfolio: https://www.matthewbixby.netlify.app
+- LinkedIn: https://www.linkedin.com/in/matthew-bixby/
