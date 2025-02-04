@@ -12,7 +12,7 @@ Fullstack Software Engineer with a chemistry background, combining analytical pr
 ## 🌱 Currently
 - Building backend services with Java Spring Boot
 - Check out my latest AWS project: Inventory Management Dashboard
-- Open to full-time Full Stack Developer or Solutions Engineer roles
+- Open to full-time Full Stack Developer or Software Engineer roles
 
 ## 👀 Beyond Coding
 Wildlife biology, botany, open source, nature photography, and reality TV enthusiast
