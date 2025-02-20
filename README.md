@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matt (he/him)!
 
-Fullstack Software Engineer with a chemistry background, combining analytical precision with modern web development. Former fragrance industry professional bringing unique insights to software solutions.
+Full-stack software engineer with a chemistry background, combining analytical precision with modern web development. Former fragrance industry professional bringing unique insights to software solutions.
 
 ## 🔧 Tech Stack
 - **Frontend:** JavaScript, React, Redux Toolkit/RTK Query, ReactRouter, TypeScript, Next.js, HTML/CSS
