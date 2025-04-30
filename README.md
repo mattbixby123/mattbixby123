@@ -19,5 +19,5 @@ Wildlife biology, botany, open source, nature photography, and reality TV enthus
 
 ## 📫 Let's Connect!
 - Email: matthew.bixby1@gmail.com
-- Portfolio: matthewbixby.com
+- Portfolio: www.matthewbixby.com
 - LinkedIn: https://www.linkedin.com/in/matthew-bixby/
