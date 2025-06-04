@@ -22,7 +22,7 @@ Full-stack software engineer with a chemistry background, combining analytical p
 - AWS Cloud Architecture (Certified Cloud Practitioner)
 
 ## 👀 Beyond Coding
-Wildlife biology, botany, open source, nature photography, and reality TV enthusiast. My chemistry lab background gives me a unique perspective on problem-solving and analytical thinking.
+Wildlife biology, botany, nature photography, and open source contributions. My chemistry lab background gives me a unique perspective on problem-solving and analytical thinking.
 
 ## 📫 Let's Connect!
 - Email: matthew.bixby1@gmail.com
