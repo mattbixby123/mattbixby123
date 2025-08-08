@@ -13,7 +13,7 @@
 ### 🌱 What I'm Working On
 
 - **BIXSTOCK** – A scalable inventory management system built with Next.js and Spring Boot, deployed on AWS (EC2/RDS) with optimized queries and 30% reduced API latency.
-- **Climate Tech Contributions** – Open-source data pipeline optimizations at [Model.Earth](https://model.earth), applying software to sustainability challenges.
+- **Climate Tech Contributions** – Contributing to open-source climate technology initiatives, applying software engineering to sustainability challenges.
 - **Learning C# & ASP.NET Core** – Expanding into enterprise backend frameworks to broaden my full-stack versatility.
 - **AWS Cloud Architecture** – Deepening my cloud engineering skills beyond certification with hands-on infrastructure-as-code (Terraform) and serverless patterns.
 
