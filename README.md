@@ -1,21 +1,23 @@
 <h1 align="center">Hi there! I'm Matt (he/him) 👋</h1>
-<p align="center">Full-stack software engineer with a background in chemistry and a passion for building scalable, cloud-native applications. I thrive at the intersection of analytical problem-solving and modern engineering—transforming complex challenges into clean, efficient code.</p>
+<p align="center">Full-stack software engineer with a background in chemistry and a passion for building scalable, production-ready applications. I thrive at the intersection of analytical problem-solving and modern engineering—transforming complex challenges into clean, efficient code.</p>
 
 
 ## 🔧 Tech Stack
-- **Frontend:** React, Next.js, Remix.js, TypeScript, Redux Toolkit, Tailwind CSS, MUI
-- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, REST APIs, Microservices, Node.js, Express
+- **Frontend:** React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS
+- **Backend:** Java 17, Spring Boot, Spring Security, Spring Data JPA, REST APIs, Microservices, Node.js, Express
 - **Database:** PostgreSQL, MySQL, Prisma ORM, JPA/Hibernate
-- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, Terraform, CI/CD (GitHub Actions, Jenkins), Kafka
-- **Fintech & Security:** Plaid API, Dwolla ACH, Stripe Payments, JWT, OAuth, bcrypt, Sentry.io
-- **Testing & Tools:** JUnit, Mockito, Swagger, Maven, Kafka, Maven
+- **Cloud & Infrastructure:** AWS (EC2, S3, RDS, API Gateway), Docker, Linux/Ubuntu, VPS Deployment, nginx
+- **DevOps & Systems:** CI/CD (GitHub Actions), SSL/TLS, Reverse Proxy, Load Balancing, Zero-downtime Deployment
+- **Fintech & Security:** Plaid API, Dwolla ACH, JWT, OAuth, bcrypt, Sentry.io
+- **Testing & Tools:** JUnit, Mockito, Swagger, Maven, Git, Postman
+
 
 ### 🌱 What I'm Working On
 
-- **BIXSTOCK** – A scalable inventory management system built with Next.js and Spring Boot, deployed on AWS (EC2/RDS) with optimized queries and 30% reduced API latency.
-- **Climate Tech Contributions** – Contributing to open-source climate technology initiatives, applying software engineering to sustainability challenges.
-- **Learning C# & ASP.NET Core** – Expanding into enterprise backend frameworks to broaden my full-stack versatility.
-- **AWS Cloud Architecture** – Deepening my cloud engineering skills beyond certification with hands-on infrastructure-as-code (Terraform) and serverless patterns.
+- **Production Infrastructure Focus** – Mastering Docker containerization, nginx reverse proxy configurations, and Linux server management for scalable deployments
+- **BIXSTOCK** – Production-grade inventory management system with VPS deployment, achieving 30% API response time reduction through optimized infrastructure
+- **Investment Portfolio Tracker** – High-performance Spring Boot API with comprehensive testing (85% coverage) and sub-1s latency
+- **Climate Tech Contributions** – Contributing to open-source climate technology initiatives at Model.Earth
 
 ---
 
@@ -24,14 +26,14 @@
 **Backend Java Intern @ Revature** (Apr 2025 – Present)  
 Developing Spring Boot microservices with 100% code review pass rate and 20% API performance gains through SQL optimization.
 
-**Horizon Bank** | [Live Demo](https://horizon-bank-demo.netlify.app/) | [GitHub](https://github.com/mbixby/horizon-bank)  
-Full-stack fintech app using Next.js + Spring Boot. Integrated Plaid for real-time transactions and Dwolla for ACH transfers. Reduced debug time by 50% using Sentry.io.
+**BIXSTOCK | Scalable Inventory Management System** | [github](https://github.com/mattbixby123/InventoryManagement) | [live demo](http://buoy.ufixu.net:8081)
+Scalable inventory management system deployed on production VPS infrastructure. Implemented Docker containerization, nginx reverse proxy, and Linux server configuration with firewall management and SSL termination.
 
-**Investment Portfolio Tracker** | [GitHub](https://github.com/mbixby/investment-tracker)  
-Spring Boot backend with JWT auth and Alpha Vantage API integration. Sub-1s latency and 85% test coverage with JUnit/Mockito.
+**Investment Portfolio Tracker | Backend System** | [GitHub](https://github.com/mbixby/investment-tracker)  
+Enterprise-grade Spring Boot backend with JWT authentication, comprehensive Swagger documentation, and real-time stock data processing with sub-1s latency.
 
-**Agile Team Lead @ Retro Rag Reads**  
-Led a 4-person team to build a full-stack e-commerce platform (MERN + Stripe), cutting checkout time by 40% and deployment errors by 25% via CI/CD.
+**Horizon Bank | Full-Stack Fintech Application** | [Live Demo](https://horizon-bank-demo.netlify.app/) | [GitHub](https://github.com/mbixby/horizon-bank)  
+Full-stack fintech application with Next.js frontend and integrated Plaid/Dwolla APIs. Implemented Sentry.io monitoring reducing debug time by 50%.
 
 ---
 
@@ -45,7 +47,7 @@ Led a 4-person team to build a full-stack e-commerce platform (MERN + Stripe), c
 
 ### 🌿 Beyond the Code
 
-When I'm not coding, you’ll find me in the woods photographing wildlife, identifying native plants, or contributing to open-source science and climate initiatives. My lab training in chemistry taught me precision, experimentation, and resilience—skills I bring to every line of code.
+When I'm not coding, you'll find me in the woods photographing wildlife, identifying native plants, or contributing to open-source science and climate initiatives. My lab training in chemistry taught me precision, experimentation, and resilience—skills I bring to every deployment and optimization.
 
 ---
 
