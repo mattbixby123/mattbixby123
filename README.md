@@ -26,7 +26,7 @@
 **Backend Java Intern @ Revature** (Apr 2025 – Present)  
 Developing Spring Boot microservices with 100% code review pass rate and 20% API performance gains through SQL optimization.
 
-**BIXSTOCK | Scalable Inventory Management System** | [github](https://github.com/mattbixby123/InventoryManagement) | [live demo](http://buoy.ufixu.net:8081)
+**BIXSTOCK | Scalable Inventory Management System** | [github](https://github.com/mattbixby123/InventoryManagement) | [live demo](https://inventory.matthewbixby.com)
 Scalable inventory management system deployed on production VPS infrastructure. Implemented Docker containerization, nginx reverse proxy, and Linux server configuration with firewall management and SSL termination.
 
 **Investment Portfolio Tracker | Backend System** | [GitHub](https://github.com/mbixby/investment-tracker)  
