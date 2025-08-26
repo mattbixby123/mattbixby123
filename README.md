@@ -4,8 +4,7 @@
 
 ## 🔧 Tech Stack
 - **Frontend:** React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS
-- **Backend:** Java 17, Spring Boot, Spring Security, Spring Data JPA, REST APIs, Microservices, Node.js, Express
-- **Database:** PostgreSQL, MySQL, Prisma ORM, JPA/Hibernate
+- **Backend:** Java 21, Spring Boot, Spring Security, WebSocket Streaming, Spring Data JPA, REST APIs, Microservices, Node.js, Express- **Database:** PostgreSQL, MySQL, Prisma ORM, JPA/Hibernate
 - **Cloud & Infrastructure:** AWS (EC2, S3, RDS, API Gateway), Docker, Linux/Ubuntu, VPS Deployment, nginx
 - **DevOps & Systems:** CI/CD (GitHub Actions), SSL/TLS, Reverse Proxy, Load Balancing, Zero-downtime Deployment
 - **Fintech & Security:** Plaid API, Dwolla ACH, JWT, OAuth, bcrypt, Sentry.io
@@ -16,8 +15,7 @@
 
 - **Production Infrastructure Focus** – Mastering Docker containerization, nginx reverse proxy configurations, and Linux server management for scalable deployments
 - **BIXSTOCK** – Production-grade inventory management system with VPS deployment, achieving 30% API response time reduction through optimized infrastructure
-- **Investment Portfolio Tracker** – High-performance Spring Boot API with comprehensive testing (85% coverage) and sub-1s latency
-- **Climate Tech Contributions** – Contributing to open-source climate technology initiatives at Model.Earth
+- **Investment Portfolio Tracker** – Real-time stock streaming system with WebSocket integration, JWT authentication, and comprehensive PostgreSQL persistence
 
 ---
 
@@ -29,8 +27,8 @@ Developing Spring Boot microservices with 100% code review pass rate and 20% API
 **BIXSTOCK | Scalable Inventory Management System** | [github](https://github.com/mattbixby123/InventoryManagement) | [live demo](https://inventory.matthewbixby.com)
 Scalable inventory management system deployed on production VPS infrastructure. Implemented Docker containerization, nginx reverse proxy, and Linux server configuration with firewall management and SSL termination.
 
-**Investment Portfolio Tracker | Backend System** | [GitHub](https://github.com/mbixby/investment-tracker)  
-Enterprise-grade Spring Boot backend with JWT authentication, comprehensive Swagger documentation, and real-time stock data processing with sub-1s latency.
+**Investment Portfolio Tracker | Backend System** | [GitHub](https://github.com/mattbixby123/portfolio-tracker-backend)
+Enterprise-grade Spring Boot backend with JWT authentication, real-time WebSocket streaming, and dual API integration (Alpha Vantage REST + Finnhub WebSocket). Features comprehensive testing (85% coverage) and detailed Swagger documentation.
 
 **Horizon Bank | Full-Stack Fintech Application** | [Live Demo](https://horizon-bank-demo.netlify.app/) | [GitHub](https://github.com/mbixby/horizon-bank)  
 Full-stack fintech application with Next.js frontend and integrated Plaid/Dwolla APIs. Implemented Sentry.io monitoring reducing debug time by 50%.
