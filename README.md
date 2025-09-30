@@ -1,58 +1,86 @@
 <h1 align="center">Hi there! I'm Matt (he/him) 👋</h1>
-<p align="center">Full-stack software engineer with a background in chemistry and a passion for building scalable, production-ready applications. I thrive at the intersection of analytical problem-solving and modern engineering—transforming complex challenges into clean, efficient code.</p>
+<p align="center">Full-stack engineer with a chemistry background building production-grade applications. I combine analytical problem-solving with modern software engineering to create scalable, research-grade systems.</p>
 
 
-## 🔧 Tech Stack
-- **Frontend:** React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS
-- **Backend:** Java 21, Spring Boot, Spring Security, WebSocket Streaming, Spring Data JPA, REST APIs, Microservices, Node.js, Express- **Database:** PostgreSQL, MySQL, Prisma ORM, JPA/Hibernate
-- **Cloud & Infrastructure:** AWS (EC2, S3, RDS, API Gateway), Docker, Linux/Ubuntu, VPS Deployment, nginx
-- **DevOps & Systems:** CI/CD (GitHub Actions), SSL/TLS, Reverse Proxy, Load Balancing, Zero-downtime Deployment
-- **Fintech & Security:** Plaid API, Dwolla ACH, JWT, OAuth, bcrypt, Sentry.io
-- **Testing & Tools:** JUnit, Mockito, Swagger, Maven, Git, Postman
+## Tech Stack
 
-
-### 🌱 What I'm Working On
-
-- **Production Infrastructure Focus** – Mastering Docker containerization, nginx reverse proxy configurations, and Linux server management for scalable deployments
-- **BIXSTOCK** – Production-grade inventory management system with VPS deployment, achieving 30% API response time reduction through optimized infrastructure
-- **Investment Portfolio Tracker** – Real-time stock streaming system with WebSocket integration, JWT authentication, and comprehensive PostgreSQL persistence
+**Backend:** Java, Spring Boot, REST APIs, Microservices, Kafka, JPA/Hibernate, Node.js  
+**Frontend:** React, Next.js, TypeScript, Redux, Tailwind CSS  
+**Database:** PostgreSQL, MySQL, pgvector  
+**Cloud & Infrastructure:** AWS (EC2, RDS, S3), Docker, Linux, nginx, SSL/TLS  
+**DevOps:** CI/CD, GitHub Actions, Zero-downtime Deployment  
+**Testing:** JUnit, Mockito, 85%+ coverage standards  
 
 ---
 
-### 💼 Recent Experience & Projects
+## Featured Projects
 
 **Backend Java Intern @ Revature** (Apr 2025 – Present)  
 Developing Spring Boot microservices with 100% code review pass rate and 20% API performance gains through SQL optimization.
 
-**BIXSTOCK | Scalable Inventory Management System** | [github](https://github.com/mattbixby123/InventoryManagement) | [live demo](https://inventory.matthewbixby.com)
-Scalable inventory management system deployed on production VPS infrastructure. Implemented Docker containerization, nginx reverse proxy, and Linux server configuration with firewall management and SSL termination.
+### Allergen Intelligence Platform | [GitHub](https://github.com/mattbixby123/allergen-intelligence)
+Event-driven microservices system processing chemical allergen research with Kafka message queues. 
+Integrates PubChem and OpenAI APIs for medical literature synthesis.
 
-**Investment Portfolio Tracker | Backend System** | [GitHub](https://github.com/mattbixby123/portfolio-tracker-backend)
-Enterprise-grade Spring Boot backend with JWT authentication, real-time WebSocket streaming, and dual API integration (Alpha Vantage REST + Finnhub WebSocket). Features comprehensive testing (85% coverage) and detailed Swagger documentation.
+- 95% cost reduction through intelligent caching strategy (PostgreSQL + pgvector)
+- Sub-second cached responses (18s → 18ms) with peer-reviewed citations
+- n8n workflow automation for monitoring, cost tracking, and error recovery
+- Addresses oxidation product identification gap in cosmetic ingredients
+
+**Tech:** Spring Boot, Kafka, PostgreSQL, pgvector, n8n, Docker
+**BIXSTOCK | Scalable Inventory Management System** | [github](https://github.com/mattbixby123/InventoryManagement) | [live demo](https://inventory.matthewbixby.com)
+Production VPS deployment with Docker containerization and nginx reverse proxy.
+
+- 30% API response time reduction through caching and load balancing
+- Let's Encrypt SSL automation, Linux server configuration
+- Zero-downtime deployment pipeline
+
+**Tech:** Next.js, TypeScript, RTK Query, Docker, nginx, PostgreSQL
 
 **Horizon Bank | Full-Stack Fintech Application** | [Live Demo](https://horizon-bank-demo.netlify.app/) | [GitHub](https://github.com/mbixby/horizon-bank)  
-Full-stack fintech application with Next.js frontend and integrated Plaid/Dwolla APIs. Implemented Sentry.io monitoring reducing debug time by 50%.
+Full-stack banking application with Plaid API integration and ACH transfers.
+
+- Real-time transaction data with Dwolla payment processing
+- Sentry.io error monitoring, 50% debug time reduction
+
+**Tech:** Next.js, TypeScript, Appwrite, Plaid API, Dwolla API
 
 ---
 
-### 📚 Education & Certifications
+## Experience
 
-- **AWS Certified Cloud Practitioner** (2024)  
-- **Full Stack Development Bootcamp**, Fullstack Academy (2024)  
-- **B.S. Chemistry**, Ithaca College (GPA: 3.5)
+**Backend Java Intern @ Revature** (Apr 2025 – Present)  
+Developing Spring Boot microservices for enterprise applications. 100% pass rate 
+on 100+ code reviews.
+
+**Freelance Developer** (Jun 2024 – Present)  
+Production nginx architectures solving SSL and performance issues for small business clients.
+
+**Account Manager @ Takasago International** (May 2021 – Mar 2024)  
+Managed fine fragrance portfolios for L'Oréal, Coty, Avon. Coordinated product 
+development from formulation to market launch.
 
 ---
 
-### 🌿 Beyond the Code
+## Education
 
-When I'm not coding, you'll find me in the woods photographing wildlife, identifying native plants, or contributing to open-source science and climate initiatives. My lab training in chemistry taught me precision, experimentation, and resilience—skills I bring to every deployment and optimization.
+- **AWS Certified Cloud Practitioner** (2024)
+- **Full Stack Bootcamp**, Fullstack Academy (2024)
+- **B.S. Chemistry**, Ithaca College (GPA: 3.5, 2017)
 
 ---
 
-### 📬 Let’s Connect!
+## Beyond Code
+
+Wildlife photographer, native plant enthusiast, and open-source contributor. My chemistry 
+background taught me precision and systematic problem-solving—skills I bring to every 
+deployment and optimization challenge.
+
+---
+
+### Let’s Connect!
 
 📧 [matthew.bixby1@gmail.com](mailto:matthew.bixby1@gmail.com)  
 🌐 [www.matthewbixby.com](https://www.matthewbixby.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/matthew-bixby/)  
-🐙 [GitHub](https://github.com/mbixby)
 
