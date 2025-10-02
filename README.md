@@ -21,16 +21,20 @@ research-grade systems.
 ## Featured Projects
 
 ### Allergen Intelligence Platform
-[GitHub](https://github.com/mattbixby123/allergen-intelligence)
+[GitHub](https://github.com/mattbixby123/allergen-intelligence)  
 
-Event-driven microservices system processing chemical allergen research with Kafka message queues. Integrates PubChem and OpenAI APIs for medical literature synthesis.
+Spring Boot microservices system for chemical allergen research. Integrates PubChem and OpenAI APIs for medical literature synthesis.
 
-- 95% cost reduction through intelligent caching strategy (PostgreSQL + pgvector)
-- Sub-second cached responses (18s → 18ms) with peer-reviewed citations
-- n8n workflow automation for monitoring, cost tracking, and error recovery
-- Addresses oxidation product identification gap in cosmetic ingredients
+**Current Features:**
+* 95% cost reduction through intelligent caching (PostgreSQL + pgvector)
+* Sub-second cached responses (18s → 18ms) with peer-reviewed citations
+* Automated allergen risk assessment with DOI-backed sources
 
-**Tech:** Spring Boot, Kafka, PostgreSQL, pgvector, n8n, Docker
+**Planned Enhancements:**
+* Kafka message queues for event-driven architecture
+* n8n workflow automation for monitoring and cost tracking
+
+**Tech:** Spring Boot, PostgreSQL, pgvector, Docker (planned: Kafka, n8n)
 
 ### BIXSTOCK - Inventory Management System
 [GitHub](https://github.com/mattbixby123/InventoryManagement) | [Live Demo](https://inventory.matthewbixby.com)
