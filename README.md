@@ -23,19 +23,20 @@ research-grade systems.
 ### Allergen Intelligence Platform
 [GitHub](https://github.com/mattbixby123/allergen-intelligence)  
 
-Spring Boot microservices system for chemical allergen research. Integrates PubChem and OpenAI APIs for medical literature synthesis.
+Production-grade Spring Boot REST API for automated product allergen analysis. Solves the 
+chemical translation problem: identifies allergenic oxidation products (e.g., limonene → 
+hydroperoxide) that ingredient labels don't show.
 
-**Current Features:**
-* 95% cost reduction through intelligent caching (PostgreSQL + pgvector)
-* Sub-second cached responses (18s → 18ms) with peer-reviewed citations
-* Automated allergen risk assessment with DOI-backed sources
+**Key Features:**
+* Product safety analysis: Extract ingredients from product names and generate comprehensive 
+  risk assessments
+* 95% cost reduction via three-tier caching (PostgreSQL + pgvector + OpenAI)
+* Sub-100ms cached responses with peer-reviewed citations and DOI attribution
+* JWT authentication with refresh token rotation and real-time usage tracking
 
-**Planned Enhancements:**
-* Kafka message queues for event-driven architecture
-* n8n workflow automation for monitoring and cost tracking
+**Tech Stack:** Spring Boot 3.5.6, Spring AI, PostgreSQL 17, pgvector, OpenAI GPT-4o, Java 21
 
-**Tech:** Spring Boot, PostgreSQL, pgvector, Docker (planned: Kafka, n8n)
-
+**Coming Soon:** React frontend with Vite + Tailwind CSS
 ### BIXSTOCK - Inventory Management System
 [GitHub](https://github.com/mattbixby123/InventoryManagement) | [Live Demo](https://inventory.matthewbixby.com)
 
